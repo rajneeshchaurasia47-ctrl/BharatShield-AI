@@ -1,0 +1,9 @@
+3–5 MIN VIDEO DEMO SCRIPT — BharatShield AI
+
+0:00–0:20 Problem: A first-time investor receives a message promising 40% profit and asking for payment.
+0:20–0:50 Product: BharatShield AI is an explainable investor-resilience assistant. It does not request OTPs, SMS or financial records.
+0:50–1:50 Demo: Open app → select Suspicious tip-group message → Analyze Safely → show HIGH RISK → point out guaranteed-return, urgency, tip-group and payment red flags → read safer next step.
+1:50–2:30 Second case: paste a fake SEBI-registration claim; explain that the claim requires independent verification.
+2:30–3:10 Educational case: paste the volatility/diversification example; explain that “no strong pattern” is not a guarantee of safety.
+3:10–3:45 Guardrails: no stock tips, no buy/sell signals, no price predictions, no monetization, privacy by design.
+3:45–4:00 Close: BharatShield AI helps users pause, understand and decide independently.
